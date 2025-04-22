@@ -32,8 +32,8 @@ I’m passionate about data science, statistical modeling, and turning complex d
 ## 🎓 Education
 **Universitas Indonesia**  
 Bachelor in Statistics (2022 - present) 
-> Finalist: SPSS Statistics Olympiad 2024  
-> Semifinalist: Poisson Statistics Competition 2024
+- Finalist: SPSS Statistics Olympiad 2024  
+- Semifinalist: Poisson Statistics Competition 2024
 
 ---
 
