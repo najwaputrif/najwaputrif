@@ -6,12 +6,12 @@
 💻 Github: [najwaputrif](https://github.com/najwaputrif)  
 📊 Kaggle: [najwaputrif](https://www.kaggle.com/najwaputrif/code)  
 
----
+
 
 ## 💡 About Me
 I’m passionate about data science, statistical modeling, and turning complex data into meaningful insights that drive impact.
 
----
+
 
 ## 💼 Experience
 - **Assistant Lecturer** – Universitas Indonesia (2024 – present)  
@@ -19,7 +19,7 @@ I’m passionate about data science, statistical modeling, and turning complex d
 - **People Analytics Intern** – PT Permodalan Nasional Madani (Dec 2024 – Feb 2025)  
 - **Teaching Assistant** – Workshop on Statistical Literacy & Data Visualization (Nov 2024)
 
----
+
 
 ## 🛠️ Technical Skills
 **Languages:** Python, R, SQL  
@@ -27,7 +27,7 @@ I’m passionate about data science, statistical modeling, and turning complex d
 **Skills:** Statistical Modeling, Dashboard Development, Data Cleaning, Forecasting  
 **Soft Skills:** Teamwork, Data Storytelling, Analytical Thinking
 
----
+
 
 ## 🎓 Education
 **Universitas Indonesia**  
@@ -35,13 +35,13 @@ Bachelor in Statistics (2022 - present)
 - Finalist SPSS Statistics Olympiad 2024  
 - Semifinalist Poisson Statistics Competition 2024
 
----
+
 
 ## 📜 Certifications
 - Fullstack Microsoft Excel (MySkill)  
 - The Complete SQL Bootcamp (Udemy)
 
----
+
 
 ## 🔍 Interests  
 📊 Data Science, Analytics & Statistical Modeling  
