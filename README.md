@@ -49,5 +49,5 @@ Bachelor in Statistics (2022 - present)
 🌍 Social Impact Research & Evidence-based Solutions  
 
 
-
+---
 ✨ *Let’s connect and collaborate on data-driven projects that make an impact!*
